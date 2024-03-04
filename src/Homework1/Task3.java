@@ -12,7 +12,6 @@ public class Task3 {
         int b =  Integer.parseInt(console.nextLine());
          boolean result = a == b;
         System.out.println("Результат: a равно b? " +result);
-
     }
 
     }

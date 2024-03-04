@@ -8,6 +8,5 @@ public class Task1 {
         int result = a % b;
 
         System.out.println(result);
-
     }
 }

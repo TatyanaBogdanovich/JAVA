@@ -9,7 +9,6 @@ public class Task0 {
     int a = 33;
     int b = 2;
     int result = a / b;
-
     System.out.println(result);
 
         }

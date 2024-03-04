@@ -14,6 +14,7 @@ public class Task2 {
         int result=a*b*c;
         System.out.println("Результат умножения: "+result);
 
+
     }
 }
 
